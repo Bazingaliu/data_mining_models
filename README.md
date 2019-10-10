@@ -40,14 +40,6 @@ lightgbm==2.2.1
 xgboost==0.90
 ```
 
-## 3. 代码讲解
-
-* [基于lightgbm实现的二分类、多分类和回归任务](https://mp.weixin.qq.com/s/t6EpWmLWP81DcJ7AUro3Ng)
-* [基于xgboost实现的二分类、多分类和回归任务](https://mp.weixin.qq.com/s/Td0Vrx9YO5rEn66L4C42Zw)
-* [基于keras实现的二分类、多分类和回归任务](https://mp.weixin.qq.com/s/XaB1BsLL_Va7dGL0S0rUOQ)
-* [基于pytorch实现的二分类、多分类和回归任务](https://zhuanlan.zhihu.com/p/80381974)
-
-## 4. 最后
 
 目前只整理了几个常用的模型，下一步会将用到的不错的代码同步进来
 
